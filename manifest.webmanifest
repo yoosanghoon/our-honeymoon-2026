@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Our European Honeymoon 2026",
+  "short_name": "Our Honeymoon",
+  "description": "2026 유럽 신혼여행 일정과 지도",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf8f3",
+  "theme_color": "#142840",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
